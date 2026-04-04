@@ -1,0 +1,7 @@
+pyproject.toml
+src/my_project.egg-info/PKG-INFO
+src/my_project.egg-info/SOURCES.txt
+src/my_project.egg-info/dependency_links.txt
+src/my_project.egg-info/top_level.txt
+src/obs/classify_nina.py
+src/utils/tools.py
